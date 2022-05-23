@@ -1,6 +1,8 @@
 .DS_Store
 sentinel
 __pycache__
+.err
+.out
 
 # Created by https://www.gitignore.io/api/java,eclipse,intellij,emacs,vim
 
@@ -96,7 +98,7 @@ local.properties
 ## Plugin-specific files:
 
 # IntelliJ
-out/
+/out/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
